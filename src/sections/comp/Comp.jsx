@@ -41,7 +41,7 @@ function Comp() {
                 <img src={GmailIcon} alt="Gmail icon" />
             </a>
          </span>
-         <p>I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.</p>
+         <p className={styles.description}>I am a computer science student at the University of Lille, passionate about web development and innovative technologies. I am currently looking for an apprenticeship to apply my skills and deepen my knowledge.</p>
          <a href={CV} download>
             <button className="hover">Resume</button>
          </a>

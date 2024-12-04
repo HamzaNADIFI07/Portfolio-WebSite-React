@@ -1,8 +1,53 @@
-# React + Vite
+# Portfolio Web React - Project Progress
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project aims to develop an interactive and modern React portfolio to showcase my skills, academic background, and projects. The goal is to create a clean, aesthetically pleasing, and responsive interface with both light and dark modes.
 
-Currently, two official plugins are available:
+## Progress Overview
+### Completed Features:
+- Basic Design:
+  - Header section displaying my avatar, name, and title.
+  - Key information included:
+    - Name: Hamza Nadifi.
+    - Title: Computer Science Student.
+    - Description: A brief introduction about myself and my ambitions.
+  - Stylized "Resume" button with hover effects.
+-Light/Dark Mode:
+  - Toggle switch in the top-right corner to switch between light and dark themes.
+  - Dynamic color management to adapt to the selected theme (Light/Dark).
+- Social Media Links:
+  - Clickable icons for GitHub, LinkedIn, and Gmail.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Next Steps
+1. Add a "Projects" section.
+2. Add a "Skills" section.
+3. Add a "Contact" section.
+
+## How to Run the Project
+1. Clone the repository:
+
+```
+git clone https://github.com/HamzaNADIFI07/Portfolio-WebSite-React.git
+cd Portfolio-WebSite-React
+```
+2. Install dependencies:
+
+```
+npm install
+```
+3. Start the development server:
+
+```
+npm start
+```
+4. Open your browser and go to:
+
+```
+http://localhost:<exposed port> 
+```
+
+
+
+
+
+
