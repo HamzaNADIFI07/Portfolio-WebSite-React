@@ -51,13 +51,16 @@ npm start
 ```
 http://localhost:<exposed port> 
 ```
-### Light mode:
 
-![LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/d073ec8c307ecc0d77d27a1fb08cdd2a2fcf0ec4/Images/Capture%20d%E2%80%99%C3%A9cran%202024-12-04%20%C3%A0%2014.11.12.png)
+## Portfolio Sections Overview in Light and Dark Modes
 
-### Dark mode:
 
-![DARK](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/d073ec8c307ecc0d77d27a1fb08cdd2a2fcf0ec4/Images/Capture%20d%E2%80%99%C3%A9cran%202024-12-04%20%C3%A0%2014.11.19.png)
+| Dark     | Dark                                                                                                                                               | Light                                                                                                                                               |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Header | ![Header_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Dark.png) | ![Section1_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Light.png) |
+| Projects | ![Projects_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Dark.png) | ![Section2_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Light.png) |
+| Skills | Not Yet Implemented                                                                                                                                | Not Yet Implemented                                                                                                                                 |
+| Contact | Not Yet Implemented                                                                                                                                | Not Yet Implemented                                                                                                                                 |
 
 
 
