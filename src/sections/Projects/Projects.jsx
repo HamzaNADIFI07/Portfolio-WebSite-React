@@ -70,7 +70,7 @@ function Projects() {
         title="Portfolio Web Site"
         description={
           <>
-            This project aims to develop an interactive and modern React portfolio to showcase my skills, academic background, and projects. The goal is to create a clean, aesthetically pleasing, and responsive interface with both light and dark modes.
+            An interactive weather application developed with React.js that displays meteorological data for different cities (minimum temperature, maximum temperature, rainfall, sunshine, etc.) over the course of a year. The user can select a city and set it as their favorite, then compare its data with other cities. Results are presented in tables and interactive charts, providing a clear visualization of weather differences between cities.
           </>
         }
         />

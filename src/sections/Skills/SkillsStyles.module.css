@@ -35,3 +35,16 @@ h2 {
     margin: 1.5rem 0 1rem;
     color: var(--text-color);
 }
+@media (width >=800px){
+    .skillList{
+        max-width: fit-content;
+        gap: 30px;
+        p{
+            font-size: 20px;
+        }
+    }
+    hr{
+        width: 300px;
+    }
+
+}

@@ -28,7 +28,7 @@ function Comp() {
 
     </div>
     <div className={styles.info}>
-        <h1>Hamza <br />NADIFI</h1>
+        <h1>Hamza <br /> NADIFI</h1>
         <h2>Computer science student</h2>
         <span>
             <a href="https://github.com/HamzaNADIFI07" target="_blank">

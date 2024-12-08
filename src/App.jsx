@@ -1,14 +1,19 @@
-import './App.css'
-import Comp from './sections/comp/comp'
-import Projects from './sections/Projects/Projects'
-import Skills from './sections/Skills/Skills'
+import './App.css';
+import Comp from './sections/comp/comp';
+import Projects from './sections/Projects/Projects';
+import Skills from './sections/Skills/Skills';
+import Contact from './sections/Contact/Contact';
+import Footer from './sections/Footer/Footer';
 
 function App() {
 
   return <>
   <Comp/>
-  <Projects></Projects>
-  <Skills></Skills>
+  <Projects/>
+  <Skills/>
+  <Contact/>
+  <Footer/>
+
   </>
   
 }
