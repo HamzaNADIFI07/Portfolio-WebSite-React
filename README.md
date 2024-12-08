@@ -17,11 +17,17 @@ This project aims to develop an interactive and modern React portfolio to showca
   - Dynamic color management to adapt to the selected theme (Light/Dark).
 - Social Media Links:
   - Clickable icons for GitHub, LinkedIn, and Gmail.
+- Projects Section:
+  - A dedicated section showcasing completed projects, each with a description, title, and clickable link to the repository.
+  - Projects currently included:
+    - Zombie Defense Game: A Java-based defense game inspired by Zombicide.
+    - Fruit Collection Game: A Node.js game involving dynamic fruit collection mechanics.
+    - Interactive Weather Application: A React app displaying meteorological data with visualizations.
+    - Portfolio Web Site: This project itself, showcasing skills in React and responsive design.
 
 ## Next Steps
-1. Add a "Projects" section.
-2. Add a "Skills" section.
-3. Add a "Contact" section.
+1. Add a "Skills" section.
+2. Add a "Contact" section.
 
 ## How to Run the Project
 1. Clone the repository:

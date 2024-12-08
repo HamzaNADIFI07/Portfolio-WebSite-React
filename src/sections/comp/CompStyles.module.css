@@ -7,8 +7,9 @@
     height: 100dvh;
     min-height: 500px;
 
-    .hero{
+    .comp{
         max-width: 200px;
+        position: relative;
     }
     span{
         display: flex;
@@ -50,8 +51,9 @@
 .colorModeContainer{
     position: relative;
 }
+
 .colorMode{
-    position: absolute;
+    position: relative;
     right: 0;
     width: 25px;
 }
