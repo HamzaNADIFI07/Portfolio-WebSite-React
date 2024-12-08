@@ -6,8 +6,8 @@ import WeatherApplicationLight from '../../assets/Weather_Light.png';
 import WeatherApplicationDark from '../../assets/Weather_Dark.png';
 import FruitCollectionGameLight from '../../assets/FruitCollectionGame_Light.png';
 import FruitCollectionGameDark from '../../assets/FruitCollectionGame_Dark.png';
-import PortFolioWebSiteLight from '../../assets/portFolioWebSite_Light.png';
-import PortFolioWebSiteDark from '../../assets/portFolioWebSite_Dark.png';
+import PortFolioWebSiteLight from '../../assets/PortFolioWebSite_Light.png';
+import PortFolioWebSiteDark from '../../assets/PortFolioWebSite_Dark.png';
 import { useTheme } from '../../common/ThemeContext';
 import ProjectCard from '../../common/ProjectCard';
 
