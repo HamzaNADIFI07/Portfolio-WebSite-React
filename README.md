@@ -32,6 +32,7 @@ This project aims to develop an interactive and modern React portfolio to showca
     - Version Control & Others: GitLab, GitHub, Markdown.
   - Icons dynamically switch between light and dark mode based on the current theme.
 
+
 ## Next Steps
 1. Add a "Contact" section.
 
