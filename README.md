@@ -24,10 +24,16 @@ This project aims to develop an interactive and modern React portfolio to showca
     - Fruit Collection Game: A Node.js game involving dynamic fruit collection mechanics.
     - Interactive Weather Application: A React app displaying meteorological data with visualizations.
     - Portfolio Web Site: This project itself, showcasing skills in React and responsive design.
+- Skills Section:
+  - A categorized and structured presentation of technical skills.
+    - Programming Languages: HTML, CSS, JavaScript, Java, Python, C, MySQL, PHP.
+    - Frameworks & Libraries: Node.js, React.
+    - Development Tools: Visual Studio Code, Eclipse, Emacs, IntelliJ IDEA.
+    - Version Control & Others: GitLab, GitHub, Markdown.
+  - Icons dynamically switch between light and dark mode based on the current theme.
 
 ## Next Steps
-1. Add a "Skills" section.
-2. Add a "Contact" section.
+1. Add a "Contact" section.
 
 ## How to Run the Project
 1. Clone the repository:
@@ -55,11 +61,11 @@ http://localhost:<exposed port>
 ## Portfolio Sections Overview in Light and Dark Modes
 
 
-| Dark     | Dark                                                                                                                                               | Light                                                                                                                                               |
+| Sections     | Dark                                                                                                                                               | Light                                                                                                                                               |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Header | ![Header_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Dark.png) | ![Section1_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Light.png) |
-| Projects | ![Projects_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Dark.png) | ![Section2_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Light.png) |
-| Skills | Not Yet Implemented                                                                                                                                | Not Yet Implemented                                                                                                                                 |
+| Header | ![Header_DARK](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Dark.png) | ![Header_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section1_Light.png) |
+| Projects | ![Projects_DARK](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Dark.png) | ![Projects_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section2_Light.png) |
+| Skills | ![Skills_DARK](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section3_Dark.png)                                                                                                                                | ![Skills_LIGHT](https://github.com/HamzaNADIFI07/Portfolio-WebSite-React/blob/9c306176ffd7698dc8faf999a6f9b6e4a0b54604/Images/Section3_Light.png)                                                                                                                                 |
 | Contact | Not Yet Implemented                                                                                                                                | Not Yet Implemented                                                                                                                                 |
 
 
