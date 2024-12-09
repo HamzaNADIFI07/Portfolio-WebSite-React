@@ -21,6 +21,7 @@ function Projects() {
   const PortFolioWebSiteIcon = theme==='light' ? PortFolioWebSiteLight : PortFolioWebSiteDark;
 
 
+  
   return (
   <section id='projects' className={styles.container}>
     <h1 className='sectionTitle'>Projects</h1>
