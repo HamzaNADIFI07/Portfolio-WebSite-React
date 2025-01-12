@@ -8,6 +8,8 @@ import FruitCollectionGameLight from '../../assets/FruitCollectionGame_Light.png
 import FruitCollectionGameDark from '../../assets/FruitCollectionGame_Dark.png';
 import PortFolioWebSiteLight from '../../assets/PortFolioWebSite_Light.png';
 import PortFolioWebSiteDark from '../../assets/PortFolioWebSite_Dark.png';
+import GameForgeLight from '../../assets/GameForge_Light.png';
+import GameForgeDark from '../../assets/GameForge_Dark.png';
 import { useTheme } from '../../common/ThemeContext';
 import ProjectCard from '../../common/ProjectCard';
 
@@ -19,6 +21,7 @@ function Projects() {
   const WeatherApplicationIcon = theme==='light' ? WeatherApplicationLight : WeatherApplicationDark;
   const FruitCollectionGameIcon = theme==='light' ? FruitCollectionGameLight : FruitCollectionGameDark;
   const PortFolioWebSiteIcon = theme==='light' ? PortFolioWebSiteLight : PortFolioWebSiteDark;
+  const GameForgeIcon = theme==='light' ? GameForgeLight : GameForgeDark;
 
 
   
@@ -73,6 +76,16 @@ function Projects() {
         description={
           <>
             An interactive weather application developed with React.js that displays meteorological data for different cities (minimum temperature, maximum temperature, rainfall, sunshine, etc.) over the course of a year. The user can select a city and set it as their favorite, then compare its data with other cities. Results are presented in tables and interactive charts, providing a clear visualization of weather differences between cities.
+          </>
+        }
+        />
+        <ProjectCard 
+        src={GameForgeIcon} 
+        link="https://github.com/HamzaNADIFI07/GameForge-Modular-Strategy-Board-Game"
+        title="GameForge: Modular Strategy Board Game"
+        description={
+          <>
+            This project is focused on designing and implementing a modular strategy board game with multiple playable variations. Players interact with a dynamically generated board, manage resources, and build structures to achieve specific objectives, depending on the game mode.
           </>
         }
         />
