@@ -8,7 +8,7 @@ import LinkedinLight from '../../assets/linkedin-light.svg';
 import LinkedinDark from '../../assets/linkedin-dark.svg';
 import GmailLight from '../../assets/gmail-light.svg';
 import GmailDark from '../../assets/gmail-dark.svg';
-import CV from '../../assets/cv.pdf';
+import CV from '../../assets/HamzaNadifiResume.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 
